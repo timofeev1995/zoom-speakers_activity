@@ -1,6 +1,9 @@
 scipy==1.5.2
+numpy==1.19.1
 librosa==0.8.0
 pydub==0.24.1
-pyvad==0.0.8
 matplotlib==3.3.0
+tqdm==4.48.0
+pyvad==0.0.8
+
 
