@@ -1,0 +1,6 @@
+scipy==1.5.2
+librosa==0.8.0
+pydub==0.24.1
+pyvad==0.0.8
+matplotlib==3.3.0
+
